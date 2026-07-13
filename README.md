@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/0001-two-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/2485-find-the-pivot-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
