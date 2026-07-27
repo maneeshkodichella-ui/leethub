@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/maneeshkodichella-ui/leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/maneeshkodichella-ui/leethub/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/maneeshkodichella-ui/leethub/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
