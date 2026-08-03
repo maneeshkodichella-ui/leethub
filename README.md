@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/maneeshkodichella-ui/leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/maneeshkodichella-ui/leethub/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maneeshkodichella-ui/leethub/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/maneeshkodichella-ui/leethub/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Heap (Priority Queue)
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maneeshkodichella-ui/leethub/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/maneeshkodichella-ui/leethub/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
