@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3731-find-missing-elements](https://github.com/maneeshkodichella-ui/leethub/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3731-find-missing-elements](https://github.com/maneeshkodichella-ui/leethub/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maneeshkodichella-ui/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/0013-roman-to-integer) |
+| [3731-find-missing-elements](https://github.com/maneeshkodichella-ui/leethub/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
