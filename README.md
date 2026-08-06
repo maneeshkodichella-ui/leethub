@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/maneeshkodichella-ui/leethub/tree/master/0263-ugly-number) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [2485-find-the-pivot-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/2485-find-the-pivot-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/maneeshkodichella-ui/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/maneeshkodichella-ui/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
