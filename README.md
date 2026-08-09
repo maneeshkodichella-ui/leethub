@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/maneeshkodichella-ui/leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/maneeshkodichella-ui/leethub/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/maneeshkodichella-ui/leethub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/maneeshkodichella-ui/leethub/tree/master/0263-ugly-number) |
+| [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [2485-find-the-pivot-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maneeshkodichella-ui/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [2485-find-the-pivot-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maneeshkodichella-ui/leethub/tree/master/0005-longest-palindromic-substring) |
+| [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -96,14 +100,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
