@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/maneeshkodichella-ui/leethub/tree/master/0263-ugly-number) |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
 | [2485-find-the-pivot-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maneeshkodichella-ui/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/maneeshkodichella-ui/leethub/tree/master/0005-longest-palindromic-substring) |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -102,16 +104,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -128,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/maneeshkodichella-ui/leethub/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
