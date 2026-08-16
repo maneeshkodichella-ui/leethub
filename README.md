@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maneeshkodichella-ui/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/maneeshkodichella-ui/leethub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/maneeshkodichella-ui/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maneeshkodichella-ui/leethub/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -115,18 +118,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -147,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/maneeshkodichella-ui/leethub/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -155,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/maneeshkodichella-ui/leethub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
