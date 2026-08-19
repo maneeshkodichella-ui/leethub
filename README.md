@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/maneeshkodichella-ui/leethub/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/maneeshkodichella-ui/leethub/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/maneeshkodichella-ui/leethub/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneeshkodichella-ui/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maneeshkodichella-ui/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/maneeshkodichella-ui/leethub/tree/master/0013-roman-to-integer) |
+| [1386-cinema-seat-allocation](https://github.com/maneeshkodichella-ui/leethub/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maneeshkodichella-ui/leethub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneeshkodichella-ui/leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maneeshkodichella-ui/leethub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maneeshkodichella-ui/leethub/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/maneeshkodichella-ui/leethub/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/maneeshkodichella-ui/leethub/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/maneeshkodichella-ui/leethub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/maneeshkodichella-ui/leethub/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/maneeshkodichella-ui/leethub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
